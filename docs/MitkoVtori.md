@@ -18,5 +18,7 @@
 
 # Popular projects
 <a href="https://github.com/MitkoVtori/MitkoVtori.github.io">1. Webpage (MitkoVtori.github.io)</a>
+
 <a href="https://github.com/MitkoVtori/worldcup-countdown">2. World Cup Countdown</a>
+
 <a href="https://github.com/MitkoVtori/django-phonebook-basic-web-project">3. Django Phonebook</a> 
